@@ -19,7 +19,7 @@
         <Property name="Height" value="50" />
         <Property name="Align" value="TopLeft" />
       </Property>
-      <Property name="Text" value="MOTHER FUCKER" />
+      <Property name="Text" value="blank" />
       <Property name="Preset" value="GcTextPreset.xml">
         <Property name="FontType" value="GcFontTypesEnum.xml">
           <Property name="Font" value="GeosansLight" />
